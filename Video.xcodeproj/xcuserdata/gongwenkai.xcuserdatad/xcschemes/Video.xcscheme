@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8B0A5B821E03B26100F6D51A"
-               BuildableName = "&#x4f5c;&#x4e1a;2.app"
-               BlueprintName = "&#x4f5c;&#x4e1a;2"
-               ReferencedContainer = "container:&#x4f5c;&#x4e1a;2.xcodeproj">
+               BuildableName = "Video.app"
+               BlueprintName = "Video"
+               ReferencedContainer = "container:Video.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B0A5B821E03B26100F6D51A"
-            BuildableName = "&#x4f5c;&#x4e1a;2.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;2"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;2.xcodeproj">
+            BuildableName = "Video.app"
+            BlueprintName = "Video"
+            ReferencedContainer = "container:Video.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B0A5B821E03B26100F6D51A"
-            BuildableName = "&#x4f5c;&#x4e1a;2.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;2"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;2.xcodeproj">
+            BuildableName = "Video.app"
+            BlueprintName = "Video"
+            ReferencedContainer = "container:Video.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B0A5B821E03B26100F6D51A"
-            BuildableName = "&#x4f5c;&#x4e1a;2.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;2"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;2.xcodeproj">
+            BuildableName = "Video.app"
+            BlueprintName = "Video"
+            ReferencedContainer = "container:Video.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

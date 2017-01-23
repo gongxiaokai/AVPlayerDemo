@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  作业2
+//  Video
 //
 //  Created by gongwenkai on 2016/12/16.
 //  Copyright © 2016年 gongwenkai. All rights reserved.
